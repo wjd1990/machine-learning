@@ -1,0 +1,3 @@
+This is the process which include I study the machine learning.
+In this project,I will add some basic algorithm about machine learning.
+After this work ,I will add some project about the processing picture.
